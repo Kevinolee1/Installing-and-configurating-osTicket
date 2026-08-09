@@ -57,14 +57,14 @@ Fill out all the Information
 
 Enter My Sql as:
 MySQL Hostname
-localhost
+localhost,
 MySQL Database
-osticket
+osticket,
 MySQL Username
-roto
+root,
 MySQL Password
-Leave blank
+Leave blank,
 Table Prefix
-ost
+ost, and click install now
 
 
