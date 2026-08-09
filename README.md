@@ -71,5 +71,7 @@ ost, and click install now
 
 Congratulations, You just completed the osticket installation. 
 
+![Image alt](https://github.com/Kevinolee1/Installing-and-configurating-osTicket/blob/cc6b5981b9ee21a9a162d317be8fe557298a7fbd/Screenshot%202026-08-08%20223606.png)
+
 Go to http://localhost/upload/ and create your first ticket
 
