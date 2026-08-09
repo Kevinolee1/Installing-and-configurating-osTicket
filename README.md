@@ -53,4 +53,18 @@ Then verify: by typing Test-Path "C:\xampp\htdocs\upload\include\ost-config.php"
 
 Fill out all the Information
 
-![Image alt]()
+![Image alt](https://github.com/Kevinolee1/Installing-and-configurating-osTicket/blob/726280615192f48e8b93c5522e7e09aaf33d584d/ost/Screenshot%202026-08-08%20035137.png)
+
+Enter your admin and My 
+MySQL Hostname
+localhost
+MySQL Database
+osticket
+MySQL Username
+roto
+MySQL Password
+Leave blank
+Table Prefix
+ost
+
+
