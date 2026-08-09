@@ -27,3 +27,5 @@ Click on upload file.
 Click on continue. 
 ![Image alt](https://github.com/Kevinolee1/Installing-and-configurating-osTicket/blob/4d998ea209a14a6499ee55f294589d7119e69022/ost/Screenshot%202026-08-08%20025901.png)
 If you get this message go to powrershell
+![Image alt](https://github.com/Kevinolee1/Installing-and-configurating-osTicket/blob/e9b4373749be1c6de124ac2bc81f5c5714f1c0f6/ost/Screenshot%202026-08-08%20031104.png)
+ icacls "C:\xampp\htdocs\upload\include" /grant "Users:(OI)(CI)M" /T
