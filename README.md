@@ -29,7 +29,7 @@ Click on continue.
 If you get this message go to powrershell
 ![Image alt](https://github.com/Kevinolee1/Installing-and-configurating-osTicket/blob/d7095c4c0830a2d2d4b85fed30d4058f5c1b36fc/ost/Screenshot%202026-08-08%20030552.png)
  type icacls "C:\xampp\htdocs\upload\include" /grant "Users:(OI)(CI)M" /T.
-![Image alt]()
+![Image alt](https://github.com/Kevinolee1/Installing-and-configurating-osTicket/blob/c47f0de12b22a067b36e2821368f8f688febc5bc/ost/Screenshot%202026-08-08%20030705.png)
 You should see Successfully processed …
 ![Image alt](https://github.com/Kevinolee1/Installing-and-configurating-osTicket/blob/e9b4373749be1c6de124ac2bc81f5c5714f1c0f6/ost/Screenshot%202026-08-08%20031104.png)
 To verify typeTest-Path "C:\xampp\htdocs\upload\include\ost-sampleconfig.php"
