@@ -55,7 +55,7 @@ Fill out all the Information
 
 ![Image alt](https://github.com/Kevinolee1/Installing-and-configurating-osTicket/blob/726280615192f48e8b93c5522e7e09aaf33d584d/ost/Screenshot%202026-08-08%20035137.png)
 
-Enter your admin and My 
+Enter My Sql as:
 MySQL Hostname
 localhost
 MySQL Database
