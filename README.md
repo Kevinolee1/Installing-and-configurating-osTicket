@@ -25,3 +25,5 @@ Go to http://localhost/osticket and click on the osticket file.
 Click on upload file.
 ![Image alt](https://github.com/Kevinolee1/Installing-and-configurating-osTicket/blob/3d14bbc69e3058de12576112f457919578b3b197/ost/Screenshot%202026-08-08%20025714.png)
 Click on continue. 
+![Image alt](https://github.com/Kevinolee1/Installing-and-configurating-osTicket/blob/4d998ea209a14a6499ee55f294589d7119e69022/ost/Screenshot%202026-08-08%20025901.png)
+If you get this message go to powrershell
