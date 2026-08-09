@@ -45,4 +45,6 @@ To verify typeTest-Path "C:\xampp\htdocs\upload\include\ost-sampleconfig.php". Y
 
 To create a Create the configuration file type Copy-Item "C:\xampp\htdocs\upload\include\ost-sampleconfig.php""C:\xampp\htdocs\upload\include\ost-config.php"
 
-![Image alt]
+![Image alt](https://github.com/Kevinolee1/Installing-and-configurating-osTicket/blob/0c86320adf15c4aabc29f2bbfb25ef7f8beab277/ost/Screenshot%202026-08-08%20031216.png)
+
+Then verify: by typing Test-Path "C:\xampp\htdocs\upload\include\ost-config.php"
