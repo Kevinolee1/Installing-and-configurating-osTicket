@@ -49,4 +49,8 @@ To create a Create the configuration file type Copy-Item "C:\xampp\htdocs\upload
 
 Then verify: by typing Test-Path "C:\xampp\htdocs\upload\include\ost-config.php". If it say True refresh http://localhost/upload/
 
+![Image alt](https://github.com/Kevinolee1/Installing-and-configurating-osTicket/blob/0cec588f7d541c67696c2abb6e8b5efc228912dc/ost/Screenshot%202026-08-08%20031706.png)
+
+Fill out all the Information
+
 ![Image alt]()
