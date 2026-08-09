@@ -19,4 +19,4 @@ Go to file manager and right click on the osticket zip file and click on extract
 Save the to C:\xampp\Temp\osticket
 ![Image alt](https://github.com/Kevinolee1/Installing-and-configurating-osTicket/blob/8095db812c4fe135ee11e3d6cee256a7a6c42f13/Screenshot%202026-08-08%20211817.png)
 Put the content upload directly in the C:\xampp\htdocs
-![Image alt]()
+![Image alt](https://github.com/Kevinolee1/Installing-and-configurating-osTicket/blob/2d4f107129fb1a8e702bd3bb6d44f81b5c193d66/Screenshot%202026-08-08%20001359.png)
