@@ -41,6 +41,8 @@ You should see Successfully processed …
 
 To verify typeTest-Path "C:\xampp\htdocs\upload\include\ost-sampleconfig.php". You should see True
 
-![Image alt]()
+![Image alt](https://github.com/Kevinolee1/Installing-and-configurating-osTicket/blob/f67b9cd59519162259e847ab0fa977193ded0996/ost/Screenshot%202026-08-08%20031104.png)
 
 To create a Create the configuration file type Copy-Item "C:\xampp\htdocs\upload\include\ost-sampleconfig.php"
+
+![Image alt]
