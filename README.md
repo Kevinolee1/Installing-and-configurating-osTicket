@@ -5,7 +5,7 @@ Go to Osticket.com and click get started
 ![Image alt](https://github.com/Kevinolee1/Installing-and-configurating-osTicket/blob/da4c55fe5e85109af76cdb3b17778536dbe549a2/ost/Screenshot%202026-08-07%20231949.png)
 https://github.com/Kevinolee1/Installing-and-configurating-osTicket/blob/da4c55fe5e85109af76cdb3b17778536dbe549a2/ost/Screenshot%202026-08-07%20231949.png
 Download the open source version of Osticket.
-![Image alt]()
+![Image alt](https://github.com/Kevinolee1/Installing-and-configurating-osTicket/blob/3c32b3d98ab24194bc0f4f0455e33c1bb931180c/ost/Screenshot%202026-08-07%20232259.png)
 Choose osTicket Version click next
 ![Image alt]()
 Choose Language Packs  click next
