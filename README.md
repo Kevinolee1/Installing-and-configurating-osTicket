@@ -15,7 +15,7 @@ Choose Plugins click next
 After downloading, open the osticket file
 ![Image alt](https://github.com/Kevinolee1/Installing-and-configurating-osTicket/blob/a0702f0013ddcf58386c342919fe413d188bc404/ost/Screenshot%202026-08-07%20234212.png)
 Go to file manager and right click on the osticket zip file and click on extract All
-![Image alt]()
+![Image alt](https://github.com/Kevinolee1/Installing-and-configurating-osTicket/blob/8b65bb0944c2ba4c14f3f01ffddcea7f7f74e729/ost/Screenshot%202026-08-07%20234836.png)
 Save the to C:\xampp\Temp\osticket
 ![Image alt]()
 Put the content upload directly in the C:\xampp\htdocs
