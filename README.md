@@ -11,7 +11,7 @@ Choose osTicket Version click next
 Choose Language Packs  click next
 ![Image alt](https://github.com/Kevinolee1/Installing-and-configurating-osTicket/blob/aeba58d2ee48439e82b30b9826618af559d59293/ost/Screenshot%202026-08-07%20232712.png)
 Choose Plugins click next
-![Image alt]()
+![Image alt](https://github.com/Kevinolee1/Installing-and-configurating-osTicket/blob/dd9c020fa3e888a089a955a97b957faeb4b3048d/ost/Screenshot%202026-08-07%20232936.png)
 After downloading, open the osticket file
 ![Image alt]()
 Right click on the file and and click on extract All
