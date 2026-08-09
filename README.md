@@ -41,3 +41,6 @@ You should see Successfully processed …
 
 To verify typeTest-Path "C:\xampp\htdocs\upload\include\ost-sampleconfig.php". You should see True
 
+![Image alt]()
+
+To create a Create the configuration file type Copy-Item "C:\xampp\htdocs\upload\include\ost-sampleconfig.php"
