@@ -13,8 +13,8 @@ Choose Language Packs  click next
 Choose Plugins click next
 ![Image alt](https://github.com/Kevinolee1/Installing-and-configurating-osTicket/blob/dd9c020fa3e888a089a955a97b957faeb4b3048d/ost/Screenshot%202026-08-07%20232936.png)
 After downloading, open the osticket file
-![Image alt]()
-Right click on the file and and click on extract All
+![Image alt](https://github.com/Kevinolee1/Installing-and-configurating-osTicket/blob/a0702f0013ddcf58386c342919fe413d188bc404/ost/Screenshot%202026-08-07%20234212.png)
+Go to file manager and right click on the osticket zip file and click on extract All
 ![Image alt]()
 Save the to C:\xampp\Temp\osticket
 ![Image alt]()
