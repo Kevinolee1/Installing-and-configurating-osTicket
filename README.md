@@ -34,6 +34,7 @@ If you get this message go to powrershell
 Type icacls "C:\xampp\htdocs\upload\include" /grant "Users:(OI)(CI)M" /T.
 
 ![Image alt](https://github.com/Kevinolee1/Installing-and-configurating-osTicket/blob/c47f0de12b22a067b36e2821368f8f688febc5bc/ost/Screenshot%202026-08-08%20030705.png)
+
 You should see Successfully processed …
 
 ![Image alt](https://github.com/Kevinolee1/Installing-and-configurating-osTicket/blob/56eb60e04ad3a92e55153f1cad10afd1c474700c/ost/Screenshot%202026-08-08%20031216.png)
