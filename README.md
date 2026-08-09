@@ -23,3 +23,5 @@ Put the content upload directly in the C:\xampp\htdocs
 Go to http://localhost/osticket and click on the osticket file.
 ![Iamge alt](https://github.com/Kevinolee1/Installing-and-configurating-osTicket/blob/163c14accce6c7924d3095007d1f60b68f88c4be/ost/Screenshot%202026-08-08%20001449.png)
 Click on upload file.
+![Image alt](https://github.com/Kevinolee1/Installing-and-configurating-osTicket/blob/3d14bbc69e3058de12576112f457919578b3b197/ost/Screenshot%202026-08-08%20025714.png)
+Click on continue. 
