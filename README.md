@@ -67,4 +67,9 @@ Leave blank,
 Table Prefix
 ost, and click install now
 
+![Image alt](https://github.com/Kevinolee1/Installing-and-configurating-osTicket/blob/99497ddd85ab230108dc175619a523412ac4fc17/ost/Screenshot%202026-08-08%20045421.png)
+
+Congratulations, You just completed the osticket installation. 
+
+Go to http://localhost/upload/ and create your first ticket
 
